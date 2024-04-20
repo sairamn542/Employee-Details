@@ -1,11 +1,10 @@
 import logo from './logo.svg';
-import './App.css';
-import Data from './Components/Data';
+import CafeSearch from './Components1/Main';
 
 function App() {
   return (
     <div>
-      <Data />
+      <CafeSearch />
     </div>
   );
 }
