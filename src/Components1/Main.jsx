@@ -23,11 +23,11 @@ function Main() {
             {
               data.productDetails && (
                 <>
-                  <p>{data.productDetails['Closure type']}</p>
-                  <p>{data.productDetails['Heel type']}</p>
-                  <p>{data.productDetails[' level ']}</p>
-                  <p>{data.productDetails["Country of Origin"]}</p>
-                  <p>{data.productDetails['Sole material']}</p>
+                  <p>Closure type : {data.productDetails['Closure type']}</p>
+                  <p>Heel type : {data.productDetails['Heel type']}</p>
+                  <p>Level : {data.productDetails[' level ']}</p>
+                  <p>Country of origin : {data.productDetails["Country of Origin"]}</p>
+                  <p>Sole type : {data.productDetails['Sole material']}</p>
                 </>
               )
             }
