@@ -1,0 +1,1838 @@
+[ 
+    {
+        "productId" : "f_1",
+        "category": "Fashion",
+        "name" : "Shoes",
+        "name_lrg": "NIKE Renew Ride 3 Men's Road Running shoes",
+        "price" : 4406,
+        "discountPercent" : 9,
+        "manu" : "NIKE INDIA PVT.LTD., NIKE INDIA PVT LTD,GROUND & 1ST FLOOR OLYMPIA BUILDING,NO 66/1 BAGMANE TECH PARK,CV RAMAN NAGAR BANGALORE-560093 INDIA",
+        "image" : "https://m.media-amazon.com/images/I/81HuGpLfVgL._SX500_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/81HuGpLfVgL._SX500_.jpg",
+            "https://m.media-amazon.com/images/I/71rRX3ybYML._SX500_.jpg",
+            "https://m.media-amazon.com/images/I/71GA9QkJEYL._SY625_.jp",
+            "https://m.media-amazon.com/images/I/81i4p90yePL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/71kfdMfoJmL._SY500_.jpg"
+
+        ],
+        "rating" : 4.0,
+        "description" : "When everyday runs are on the menu, the Nike Renew Ride 3 comes through with a smooth and soft ride. It's got a secure fit and cozy feel, geared for those looking to find their running potential. The upper is clean and fresh, with touch points throughout for easy on and off. It's so comfortable, you'll want to keep wearing it after your run.",
+        "productDetails": {
+            "Closure type": "Lace-Up",
+            "Heel type": "No Heel",
+            " level ": " Water Resistant",
+            "Country of Origin": "Vietnam",
+            "Sole material":  "Rubber"
+        },
+        "maxDeliveryDays": "2",
+        "inStock": "y",
+        "itemsInStock": 10
+    },
+
+    {
+        "productId" : "F_2",
+        "category": "Fashion",
+        "name" : "Shoes",
+        "name_lrg": "Bata Mens Boss-Slick Formal Shoes,",
+        "price" : 1200,
+        "discountPercent" : 7,
+        "manu" : " M.D.Overseas, M.D.Overseas - 176-B, Baluganj, (Near To Paradiseagra, Uttar Pradesh",
+        "image" : "https://m.media-amazon.com/images/I/71DN-vAkLoL._SY500_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/71DN-vAkLoL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/81Vd10clFVL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/71Hfiepq0vL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/81djkiyJwfL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/71qiz6b-eDL._SX500_.jpg"
+
+        ],
+        "rating" : 3.8,
+        "description" : "Very stilish and comfortable shoes. We provide the world’s most comfortable and stylish shoes, accessories and apparel to help consumers look and feel their best. We know we’ve done our job when we see people smile—the purest expression of comfort and style.",
+        "productDetails": {
+            "Material type": "Synthetic",
+            "Closure type": "Pull-On",
+            "Heel type": "Flat",
+            "Country of Origin": "India",
+            " level":  " Water Resistant"
+        },
+        "maxDeliveryDays": "2",
+        "inStock": "y",
+        "itemsInStock": 7
+    },
+
+    {
+        "productId" : "F_3",
+        "category": "Fashion",
+        "name" : "Shoe",
+        "name_lrg": "Puma Womens X-rayslimmicmetallicwnsSneaker",
+        "price" : 5999,
+        "discountPercent" : 37,
+        "manu" : "Puma, MOCHIKO SHOES PRIVATE LIMITED KHASRA NO 3914, MOUZA MAZRI GRANT, LAL TAPPER INDUSTRIAL AREA, NH-72, 248140 DEHRADUN UTTRAKHAND",
+        "image" : "https://m.media-amazon.com/images/I/51DrB3Wn1+L._SY575_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/51DrB3Wn1+L._SY575_.jpg",
+            "https://m.media-amazon.com/images/I/51VXIogFeKL._SY575_.jpg",
+            "https://m.media-amazon.com/images/I/51rpqKgiftL._SY575_.jpg",
+            "https://m.media-amazon.com/images/I/61I5Y+3u0cL._SY575_.jpg",
+            "https://m.media-amazon.com/images/I/51YAUaYS0UL._SY575_.jpg"
+
+        ],
+        "rating" : 4.5,
+        "description" : "Product Story:Walk the streets in comfort while radiating vibrant style.Flaunting a dynamic block design on a breathable mesh upper, these sneakers redefine streetwear aesthetics.",
+        "productDetails": {
+            "Closure type": "Lace-Up",
+            "Heel type": "Flat",
+            "Style": "Sneaker",
+            "Country of Origin": "India",
+            "Water resistanc level":  " Water Resistant"
+        },
+        "maxDeliveryDays": "3",
+        "inStock": "y",
+        "itemsInStock": 5
+    },
+
+    {
+        "productId" : "f_4",
+        "category": "Fashion",
+        "name" : "Saree",
+        "name_lrg": "AKHILAM Women's Georgette Embellished Designer Saree With Unstitched Blouse Piece",
+        "price" : 4799,
+        "discountPercent" : 74,
+        "manu" : " AARSH LIFESTYLE PVT LTD, B-4024,Aashirwad Textile Market Surat, Gujarat 395010, AARSH LIFESTYLE PVT LTD, B-4024,Aashirwad Textile Market Surat, Gujarat 395010",
+        "image" : "https://m.media-amazon.com/images/I/713J1vdTqeL._SY741_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/713J1vdTqeL._SY741_.jpg",
+            "https://m.media-amazon.com/images/I/71x7nFkd1bL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/71Qb1wQLH3L._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/8164xJ5jkeL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/715lpJaOzhL._SY550_.jpg"
+
+        ],
+        "rating" : 3.6,
+        "description" : "This saree from the house of AKHILAM is made from Georgette and is  in . AKHILAM Ethnic Sarees comes With Blouse Piece, Which can be Stitched according to Your Taste and Preference. ",
+        "productDetails": {
+            "Material composition": "Georgette",
+            "Occasion type": "Casual",
+            "Pattern": "Embellished",
+            "Country of Origin": "India",
+            "Care instructions":  "Dry Clean Only"
+        },
+        "maxDeliveryDays": "3",
+        "inStock": "y",
+        "itemsInStock": 4
+    },
+
+    {
+        "productId" : "f_5",
+        "category": "Fashion",
+        "name" : "Saree",
+        "name_lrg": "Praveena Designer Women's Bollywood Style Plain Satin shiny Soft Silk Saree with Blouse Piece (Purple)",
+        "price" : 1000,
+        "discountPercent" : 48,
+        "manu" : " Praveena Designer",
+        "image" : "https://m.media-amazon.com/images/I/61MJhHJOgtL._SY550_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/31kiHMjMEnL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51fv6dfCxKL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51BdfiYGHzL._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51NoOatQv4L._SX38_SY50_CR,0,0,38,50_.jpg",
+            "https://m.media-amazon.com/images/I/419EfFX88BL._SX38_SY50_CR,0,0,38,50_.jpg"
+
+        ],
+        "rating" : 4.0,
+        "description" : "This is trendy Pure Satin Silk Saree. This party wear saree comes with stitched sequence jacket along with unstitched running blouse piece same as saree fabric. Embellished with silver lace inserts at the border of the Saree.",
+        "productDetails": {
+            "Material composition": "Crepe",
+            "Weave type": "Plain",
+            "Occasion type": "Festival, Party, Wedding",
+            "Country of Origin": "India",
+            "Care instructions":  "Dry Clean Only"
+        },
+        "maxDeliveryDays": "2",
+        "inStock": "y",
+        "itemsInStock": 3
+    },
+
+    {
+        "productId" : "f_6",
+        "category": "Fashion",
+        "name" : "saree",
+        "name_lrg": "AKHILAM Women's Chiffon Embellished Designer Saree With Blouse Piece",
+        "price" : 3699,
+        "discountPercent" : 40,
+        "manu" : " AARSH LIFESTYLE PVT LTD",
+        "image" : "https://m.media-amazon.com/images/I/71MiTKn2IuL._SY550_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/71MiTKn2IuL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/91HnvjkgbAL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/81yB2OiWUvL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/813WRqnR8QL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/81ZF6d4o27L._SY550_.jpg"
+
+        ],
+        "rating" : 5.0,
+        "description" : "This saree from the house of AKHILAM is made from Chiffon and is Red in . AKHILAM Ethnic Sarees comes With Blouse Piece, Which can be Stitched according to Your Taste and Preference.",
+        "productDetails": {
+            "Material composition": "Chiffon",
+            "Occasion type": "Casual",
+            "Pattern": "Solid",
+            "Country of Origin": "India",
+            "Care instructions":  "Dry Clean Only"
+        },
+        "maxDeliveryDays": "5",
+        "inStock": "y",
+        "itemsInStock": 2
+    },
+
+    {
+        "productId" : "f_7",
+        "category": "Fashion",
+        "name" : "Hoodie",
+        "name_lrg": "TOPLOT Men's Woolen Blend Solid Hoodie with Hooded Neck",
+        "price" : 2999,
+        "discountPercent" : 40,
+        "manu" : "TOPLOT, TOPLOT - SURAT",
+        "image" : "https://m.media-amazon.com/images/I/61EWx65VxvL._SY550_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/61EWx65VxvL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/71NddutEsJL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/71wzDibIpgL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/81d1Bg8RfnL._SY550_.jpg"
+            
+
+        ],
+        "rating" : 4.4,
+        "description" : "DISCLAIMER: The images shown are for representational purposes only. Please e that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen.",
+        "productDetails": {
+            "Material composition": "Wool Blend",
+            "Sleeve type": "Long Sleeve",
+            "Fit type": "Regular",
+            "Country of Origin": "India",
+            "Neck style":  "Hooded Neck"
+        },
+        "maxDeliveryDays": "4",
+        "inStock": "y",
+        "itemsInStock": 1
+    },
+
+    {
+        "productId" : "f_8",
+        "category": "Fashion",
+        "name" : "Tshirt",
+        "name_lrg": "EYEBOGLER Polo Neck Half Sleeve Striped Print Casual Men Tshirt",
+        "price" : 1299,
+        "discountPercent" : 39,
+        "manu" : "Men Rocks Pvt Ltd, #276, near Cheema Chowk.",
+        "image" : "https://m.media-amazon.com/images/I/51byp5tQ86L._SX425_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/51byp5tQ86L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/51N8Cfl0JdL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71B58DjEArL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/81gIgTQ60KL._SX522_.jpg"
+
+        ],
+        "rating" : 3.1,
+        "description" : "This T Shirt is made using only the finest super combed material. These are lightweight, breathable, and soften with every wear, a perfect match for any outfit and any occasion. Designed with superior fit and quality.",
+        "productDetails": {
+            "Material composition": "60% Cotton, 40% Polyester",
+            "Pattern": "Striped",
+            "Fit type": "Regular Fit",
+            "Country of Origin": "India",
+            "Collar style":  "Polo Collar"
+        },
+        "maxDeliveryDays": "3",
+        "inStock": "y",
+        "itemsInStock": 10
+    },
+
+    {
+        "productId" : "f_9",
+        "category": "Fashion",
+        "name" : "Tshirt",
+        "name_lrg": "EyeBolger Mens Checkered Hooded Neck Full Sleeve T-Shirt",
+        "price" : 1799,
+        "discountPercent" : 27,
+        "manu" : "Men Rocks Pvt Ltd, #276, near Cheema Chowk",
+        "image" : "https://m.media-amazon.com/images/I/611cDNwvk2L._SX425_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/611cDNwvk2L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61bL3wQ1FoL._SX425_.jpg"
+            
+        ],
+        "rating" : 3.4,
+        "description" : "Refresh your wardrobe with the new range of Summer Collections of Cotton regular fit hooded tshirt from EYEBOGLER . Pair it with Jeans for a perfect Casual wear . front print give enhance look to your t-shirt.",
+        "productDetails": {
+            "Material composition": "60% Cotton, 40% Polyester",
+            "Pattern": "Checkered",
+            "Fit type": "Regular Fit",
+            "Country of Origin": "India",
+            "Sleeve type":  "Long Sleeve"
+        },
+        "maxDeliveryDays": "4",
+        "inStock": "y",
+        "itemsInStock": 15
+    },
+
+    {
+        "productId" : "f_10",
+        "category": "Fashion",
+        "name" : "Tunic",
+        "name_lrg": "ZOLA Exclusive Mandarin Neck Rayon Geometric Print Hip Length 3/4th Sleeves Green Straight Tunic for Women",
+        "price" : 1349 ,
+        "discountPercent" : 12,
+        "manu" : "PRAGATI FASHIONS PVT. LTD",
+        "image" : "https://m.media-amazon.com/images/I/818APQ7tdmL._SX522_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/818APQ7tdmL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/71cyEOINlfL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/61g1A-c9CNL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/614kCJ6KuSL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/61HHJlmYgTL._SY550_.jpg"
+
+        ],
+        "rating" : 3.5,
+        "description" : "Look and feel your best as you wear this stylish and enchanting rayon hip-length geometric print green colored straight tunic. It features three-quarter length sleeves with cuff, and a mandarin collar, enhanced with sequin work on the front yoke. ",
+        "productDetails": {
+            "Material composition": "100% Polyester",
+            "Style": "Western",
+            "Sleeve type": "Cuff Sleeve",
+            "Country of Origin": "India",
+            "Neck style":  "Mandarin Neck"
+        },
+        "maxDeliveryDays": "5",
+        "inStock": "y",
+        "itemsInStock": 12
+    },
+
+    {
+        "productId" : "f_11",
+        "category": "Fashion",
+        "name" : "Dress",
+        "name_lrg": "J B Fashion Dresses for Women || Western Dresses for Women || Dress for Women || Dresses ",
+        "price" :4339 ,
+        "discountPercent" : 57,
+        "manu" : " J B Fashion_Surat-395004",
+        "image" : "https://m.media-amazon.com/images/I/61qoFudH6DL._SY550_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/61qoFudH6DL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/61Uz8LXoW-L._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/61hq8-qE5EL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/6184JhbFf0L._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/614E8wqpyrL._SY550_.jpg"
+
+        ],
+        "rating" : 4.1,
+        "description" : "Dresses for Women || Western Dresses for Women || Dress for Women || Dresses",
+        "productDetails": {
+            "Material composition": "Polyester",
+            "Care instructions": "Machine Wash",
+            "Country of Origin": "India"
+        },
+        "maxDeliveryDays": "4",
+        "inStock": "y",
+        "itemsInStock": 8
+    },
+
+    {
+        "productId" : "f_12",
+        "category": "Fashion",
+        "name" : "Midi Dress",
+        "name_lrg": "QUEEN ELLIE Women's Fit and Flare Midi Dress",
+        "price" : 2499,
+        "discountPercent" : 50,
+        "manu" : "KYRA pvt.LTD",
+        "image" : "https://m.media-amazon.com/images/I/51VDqUKfLoL._SY550_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/51VDqUKfLoL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/71OYpbPmnjL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/71BCL1tno+L._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/71NmddSndUL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/7145VjNb9tL._SY550_.jpg"
+        ],
+        "rating" : 3.5,
+        "description" : "A white Georgette dress will be good for a bridesmaid dress, party dress, beach dress. You'll be picture beautiful in this gorgeously floaty and feminine white dress. The fit and flare style of this summer dress means it will give you a lovely shape.",
+        "productDetails": {
+            "Material type": "Georgette",
+            "Length": "Midi",
+            "Occasion type": "Party;ceremony",
+            "Country of Origin": "India",
+            "Style":  "Fit And Flare"
+        },
+        "maxDeliveryDays": "5",
+        "inStock": "y",
+        "itemsInStock": 5
+    },
+
+    {
+        "productId" : "f_13",
+        "category": "Fashion",
+        "name" : "Silver Earrings",
+        "name_lrg": "GIVA 925 Sterling Silver Princess Earrings|Gift for Girlfriend,Pendant to Gift Women & Girls |With Certificate of Authenticity and 925 Stamp|6 Month Warranty*",
+        "price" : 3399,
+        "discountPercent" : 28,
+        "manu" : "GIVA Jewellery, GIVA, FF03, Sumukha Sai Suchin, Raghuvanahalli, JP Nagar Phase 9, Bangalore, 560062",
+        "image" : "https://m.media-amazon.com/images/I/616FzN286RL._SY395_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/616FzN286RL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/41ByGkOsmNL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/51jYi9Oz7KL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/41Xxn0HryZL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/41WxczqE2pL._SY500_.jpg"
+        ],
+        "rating" : 3.9,
+        "description" : "Inspired By romance and poetry, GIVA'S fine jewellery is crafted for the moderb indian woman. You'll love oue endless designs and exceptional quality.",
+        "productDetails": {
+            "Material type": "Sterling Silver, Rose, Gold, Zircon",
+            "Metal type": "Sterling Silver ",
+            "Gem type": "No Gemstone",
+            "Country of Origin": "India",
+            "Occasion type":  "Birthday"
+        },
+        "maxDeliveryDays": "4",
+        "inStock": "y",
+        "itemsInStock": 3
+    },
+
+    {
+        "productId" : "f_14",
+        "category": "Fashion",
+        "name" : "Bracelet",
+        "name_lrg": "Shining Diva Fashion Royal Traditional Bangle Stylish Bracelet for Women & Girls(Multi-Colour)",
+        "price" :2999 ,
+        "discountPercent" : 70,
+        "manu" : "Shining Diva, Shining Diva, 18 SSI INDL. AREA, G.T. KARNAL ROAD, DELHI - 110033, 011-42139004",
+        "image" : "https://m.media-amazon.com/images/I/61jI8OEddbL._SY395_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/61jI8OEddbL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/61sWDVk+I9L._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/71EclZTLmSL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/71ThS3C1IiL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/61AqXhY13JL._SY395_.jpg"
+        ],
+        "rating" : 3.5,
+        "description" : "Stylish & Trendy Antique Bangle Bracelet for Girls and Women. Made from High Quality Imported Austrian Crystal. Five Layer Gold Plated For High Durability.",
+        "productDetails": {
+            "Material type": "Gold Plated",
+            "Metal type": "Base Metal",
+            "Clasp type": "Lobster Claw",
+            "Country of Origin": "India",
+            "Gem type":  "Crystal"
+        },
+        "maxDeliveryDays": "4",
+        "inStock": "y",
+        "itemsInStock": 10
+    },
+
+    
+    {
+        "productId" : "f_15",
+        "category": "Fashion",
+        "name" : "Jewellery Set",
+        "name_lrg": "ZENEME Rhodium Plated Silver Toned White American Diamond Studded Necklace With Earring Jewellery Set For Woment and Girl",
+        "price" : 7299,
+        "discountPercent" : 70,
+        "manu" : "GLOBAL NEST ,FIRST FLOOR, 509-C/5GOVIND PURI, KALKAJI,NEW DELHI",
+        "image" :"https://m.media-amazon.com/images/I/81VQELYMgLL._SY395_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/81VQELYMgLL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/81+QD4b+I8L._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/91RLtkmSQEL._SY395_.jpg",
+            "https://m.media-amazon.com/images/I/710DMvsAx4L._SY535_.jpg",
+            "https://m.media-amazon.com/images/I/71O+KCnhIDL._SY395_.jpg"
+        ],
+        "rating" : 4.1,
+        "description" : "This white diamond Necklace Set comes wih matching earrings that impart a hint of elegance to your attire. This jewellery set is a perfect choice for weddings.",
+        "productDetails": {
+            "Clasp type": "Hook Clasp",
+            "Material type": "Rose Gold-Plated",
+            "Metal type": "Brass",
+            "Country of Origin": "India",
+            "Gem type":  "American Diamond"
+        },
+        "maxDeliveryDays": "3",
+        "inStock": "y",
+        "itemsInStock": 9
+    },
+
+    {
+        "productId" : "f_16",
+        "category": "Fashion",
+        "name" : "Jeans",
+        "name_lrg": "Levi's Men Mid Rise Skinny Fit Jeans",
+        "price" :3199 ,
+        "discountPercent" : 37,
+        "manu" : "EVERBLUE APPARELS LTD.",
+        "image" : "https://m.media-amazon.com/images/I/81XKa0nUpdL._SY550_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/81XKa0nUpdL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/813jdALk0KL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/81iV9e+i1uL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/914qkXl1IeL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/71OPgH1w7PL._SY550_.jpg"
+
+        ],
+        "rating" : 4.5,
+        "description" : "Want a fashion upgrade to your look? Start with these comfy dark indigo levis jeans. Made from premium cotton fabric, this skinny denim delivers style with immense comfort. ",
+        "productDetails": {
+            "Material type": "Cotton",
+            "Style": "Classic",
+            "Closure type": "Button",
+            "Country of Origin": "India",
+            "Fit type": "Skinny"
+        },
+        "maxDeliveryDays": "5",
+        "inStock": "y",
+        "itemsInStock": 5
+    },
+
+    {
+        "productId" : "f_17",
+        "category": "Fashion",
+        "name" : "jeans",
+        "name_lrg": "Lee Men Jeans",
+        "price" : 3199,
+        "discountPercent" : 50,
+        "manu" : "DBS Lifestyle India Pvt Ltd,B-107 Sector -2 , Noida,Uttar Pradesh, India.",
+        "image" : "https://m.media-amazon.com/images/I/71XRv0Yr5TL._SX522_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/71XRv0Yr5TL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/71f6lDvh5AL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/71TBt6rVb9L._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/91yVZx4qMzL._SX522_.jpg",
+            "https://m.media-amazon.com/images/I/91KvnvwZAWL._SX522_.jpg"
+
+        ],
+        "rating" : 4.0,
+        "description" : "These Lee everyday classic jeans are designed to keep you looking your best. Made from solid blue denim, they are designed to give you a clean look. The skinny fit will keep you comfortable and looking stylish all day long. Add a white shirt and a denim jacket for a night out with friends.",
+        "productDetails": {
+            "Material type": "Cotton Blend",
+            "Length": "Knee Length",
+            "Style": "Classic",
+            "Country of Origin": "India",
+            "Occasion type":  "Date night"
+        },
+        "maxDeliveryDays": "5",
+        "inStock": "y",
+        "itemsInStock": 8
+    },
+
+    {
+        "productId" : "f_18",
+        "category": "Fashion",
+        "name" : "Jeans",
+        "name_lrg": "2LUV Women's 5 Pocket Ankle Stretch Skinny Jeans",
+        "price" : 5903,
+        "discountPercent" :0,
+        "manu" : "2LUV Pvt.LTD",
+        "image" : "https://m.media-amazon.com/images/I/61KX0tiXRpL._SY550_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/61KX0tiXRpL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/61NT0aXnhnL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/61ju83bjkiL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/51A8gnBP5YL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/61PAPw98AUL._SY550_.jpg"
+        ],
+        "rating" : 4.2,
+        "description" : "Our 5 Pocket Skinny Jeans are a must have this Fall/Winter Season. These chic and trendy jeans feature a 5 pocket design, front button & zipper closure, super slim fit, low rise, and ankle length hem. Complete the look with a tunic top, long necklace, and high heeled ankle booties",
+        "productDetails": {
+            "Material type": "Denim",
+            "Length": "Ankle Length",
+            "Style": "Skinny",
+            "Country of Origin": "India",
+            "Closure type":  "Button"
+        },
+        "maxDeliveryDays": "20",
+        "inStock": "y",
+        "itemsInStock": 5
+    },
+
+    {
+        "productId" : "f_19",
+        "category": "Fashion",
+        "name" : "Lehanga Choli",
+        "name_lrg": "Fab Window Women's Sequine Embroidered Work Georgette Fabric Lehenga Choli With Dupatta (_Semi Stitched).",
+        "price" : 6999 ,
+        "discountPercent" : 42,
+        "manu" : " Fab Window,Varachha,Surat,Gujarat-395010.",
+        "image" : "https://m.media-amazon.com/images/I/71OuBaIkftL._SY550_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/71OuBaIkftL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/81DxVM-3BCL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/81WSwdZ+tGL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/81eHX8qheyL._SY550_.jpg",
+            "https://m.media-amazon.com/images/I/71mHXO51YdL._SY550_.jpg"
+        ],
+        "rating" : 3.5,
+        "description" : "The choli comes with a blouse piece. It is unstitched and can be altered according to the fit and style that you require.",
+        "productDetails": {
+            "Material composition": "Georgette",
+            "Weave type": "Jaal",
+            "Pattern": "Geometric",
+            "Country of Origin": "India",
+            "Finish type":  "Semi-stitched"
+        },
+        "maxDeliveryDays": "5",
+        "inStock": "y",
+        "itemsInStock": 10
+    },
+
+    {
+        "productId" : "f_20",
+        "category": "Fashion",
+        "name" : "Lehanga Choli",
+        "name_lrg": "Monrav Women`s Velvet Embroidered Semi Stitched lehenga Choli (dark green free Size)",
+        "price" : 4999,
+        "discountPercent" : 40,
+        "manu" : "Monrav Store, Monrav Store- Surat",
+        "image" : "https://m.media-amazon.com/images/I/61yLuinzD1L._SX425_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/61yLuinzD1L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61wogGhrclL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71aDxBqoVeL._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/71oOWbk9L3L._SX425_.jpg",
+            "https://m.media-amazon.com/images/I/61RV790SIxL._SX425_.jpg"
+        ],
+        "rating" : 3.0,
+        "description" : "The lehenga is equally traditional, stylish, and versatile. A smart cut on a lehenga can elevate your style and balance your look. It’s the right garment if you want to go traditional or experiment with a new look.",
+        "productDetails": {
+            "Material composition": "Pure",
+            "Weave type": "Banarasi",
+            "Pattern": "Floral",
+            "Country of Origin": "India",
+            "Style":  "Semi Stitched Lehenga Choli"
+        },
+        "maxDeliveryDays": "2",
+        "inStock": "y",
+        "itemsInStock": 10
+    },
+
+    {
+        "productId" : "f_21",
+        "category": "Fashion",
+        "name" : "Lehanga Saree",
+        "name_lrg": "GAJERACHOICE Women,s Stylish Black Ready To Wear Lehenga Saree With Choli",
+        "price" : 4499,
+        "discountPercent" : 43,
+        "manu" : "RASHMI FASHION",
+        "image" : "https://m.media-amazon.com/images/I/61mLETTPLAL._SX466_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/61mLETTPLAL._SX466_.jpg",
+            "https://m.media-amazon.com/images/I/71JGn9eCppL._SX466_.jpg",
+            "https://m.media-amazon.com/images/I/71OkrNQ1brL._SX466_.jpg",
+            "https://m.media-amazon.com/images/I/71vF6UQ7h5L._SX466_.jpg",
+            "https://m.media-amazon.com/images/I/71LAqBsd0VL._SY550_.jpg"
+        ],
+        "rating" : 4.0,
+        "description" : "his Is Our Latest Collection Lehenga Saree. Its Give You A Ethenic And Stylish look In Every Occassion Party Marriage.",        "productDetails": {
+            "Material composition": "Foux gorgette",
+            "Pattern": "Solid",
+            "Style": "Lehenga Saree",
+            "Country of Origin": "India",
+            "Sleeve type":  "Long Sleeve"
+        },
+        "maxDeliveryDays": "5",
+        "inStock": "y",
+        "itemsInStock": 15
+    },
+    {
+        "productId" : "b_1",
+        "category": "Books",
+        "sub-category" : "Autobiography",
+        "name" : "My Inventions",
+        "name_lrg": "My Inventions, Autobiography of Nikola Tesla",
+        "price" : 99,
+        "discountPercent" : 10,
+        "manu" : "TESLA",
+        "image" : "https://m.media-amazon.com/images/I/71pGZBofMGL._SY466_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/71pGZBofMGL._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/81DV9W8tGfS._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/81rr7O63WDS._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/81CKRTrLZXS._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/81p8he57tyS._SY466_.jpg"
+
+        ],
+        "rating" : 3.0,
+        "description" : "Discover the remarkable life and brilliant mind of Nikola Tesla in My Inventions: Autobiography of Nikola Tesla. This captivating autobiography unveils the visionary ideas, groundbreaking inventions, and relentless pursuit of innovation that defined one of history's greatest inventors.",
+        "productDetails": {
+            "Print length": "104 pages",
+            "Language": "English",
+            "Publication date ": "25 October 2015",
+            "Publisher": "Fingerprint Publishing"
+        },
+        "maxDeliveryDays": "4",
+        "inStock": "y",
+        "itemsInStock": 15
+    },
+    {
+        "productId" : "b_2",
+        "category": "Books",
+        "sub-category" : "Autobiography",
+        "name" : "Autobiography of a Yogi",
+        "name_lrg": "Autobiography of a Yogi (Complete Original Edition)",
+        "price" : 150,
+        "discountPercent" : 18,
+        "manu" : "YOGI INDIA",
+        "image" : "https://m.media-amazon.com/images/I/718aEV+GLnL._SY466_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/718aEV+GLnL._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/91IU04QwomL._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/61s-esnTJlL._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/71nl5g8TcpL._SX606_.jpg",
+            "https://m.media-amazon.com/images/I/61YWjvjavcL._SX679_.jpg"
+
+        ],
+        "rating" : 4.0,
+        "description" : "Autobiography of a Yogi which help to live stress free life",
+        "productDetails": {
+            "Print length": "510 page",
+            "Language": "English",
+            "Publication date ": "9 February 1998",
+            "Publisher": "Yogoda Satsanga Society of India"
+        },
+        "maxDeliveryDays": "4",
+        "inStock": "y",
+        "itemsInStock": 80
+    },
+    {
+        "productId" : "b_3",
+        "category": "Books",
+        "sub-category" : "Autobiography",
+        "name" : "My Life An Illustrated Autobiography",
+        "name_lrg": "Autobiography of Dr.A P J Abdul Kalam",
+        "price" : 169,
+        "discountPercent" : 15,
+        "manu" : "KALAM INDIA",
+        "image" : "https://m.media-amazon.com/images/I/71iQ+vWirpL._SY466_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/71iQ+vWirpL._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/81wj4XU7NiL._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/712tWPLu7-L._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/71tvTyLAaML._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/819QEcBUZRL._SY466_.jpg"
+
+        ],
+        "rating" : 4.0,
+        "description" : "The story of my life has become intertwined with the story of this country. And somewhere along the way, as I met a million children across this land, I too learnt from a million minds. This book was not written to only tell my story. I want every young reader to think that this book is his or her story too.",
+        "productDetails": {
+            "Print length": "119 pages",
+            "Language": "English",
+            "Publication date ": "25 October 2015",
+            "Publisher": "Rupa Publications India/Red Turtle"
+        },
+        "maxDeliveryDays": "2",
+        "inStock": "y",
+        "itemsInStock": 10
+    },
+    {
+        "productId" : "b_4",
+        "category": "Books",
+        "sub-category" : "Self Help",
+        "name" : "The Power of Your Subconscious Mind",
+        "name_lrg": "The Power of Your Subconscious Mind Paperback - Advent Calendar, 1 February 2015",
+        "price" : 100,
+        "discountPercent" : 5,
+        "manu" : "Anil Books",
+        "image" : "https://m.media-amazon.com/images/I/61jBLw5Bq9L._SY466_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/61jBLw5Bq9L._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/81ccO6QY6QL._SX679_.jpg",
+            "https://m.media-amazon.com/images/I/81ZPvRTVBwL._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/81i8Dt3X3cL._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/813OGvZwWaL._SY466_.jpg"
+
+        ],
+        "rating" : 5.0,
+        "description" : "This remarkable book by Dr. Joseph Murphy, one of the pioneering voices of affirmative thinking, will unlock for you the truly staggering powers of your subconscious mind.",
+        "productDetails": {
+            "Print length": "256 pages",
+            "Language": "English",
+            "Publication date ": "1 February 2015",
+            "Publisher": "Fingerprint Publishing"
+        },
+        "maxDeliveryDays": "5",
+        "inStock": "y",
+        "itemsInStock": 150
+    },
+    {
+        "productId" : "b_5",
+        "category": "Books",
+        "sub-category" : "Self Help",
+        "name" : "Atomic Habits",
+        "name_lrg": "Atomic Habits",
+        "price" : 449,
+        "discountPercent" : 12,
+        "manu" : "Rajnish",
+        "image" : "https://m.media-amazon.com/images/I/61M6KzUbf7L._SY466_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/61M6KzUbf7L._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/71YZwR-ykEL._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/81+9Gbu0isL._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/61M6KzUbf7L._SY466_.jpg",
+            "https://m.media-amazon.com/images/I/61Bhf8CdaML._SY466_.jpg"
+
+        ],
+        "rating" : 3.0,
+        "description" : "People think that when you want to change your life, you need to think big. But world-renowned habits expert James Clear has discovered another way. He knows that real change comes from the compound effect of hundreds of small decisions: doing two push-ups a day, waking up five minutes early, or holding a single short phone call.",
+        "productDetails": {
+            "Print length": "320 pages",
+            "Language": "English",
+            "Publication date ": "1 January 2018",
+            "Publisher": "Random House Business Books"
+        },
+        "maxDeliveryDays": "10",
+        "inStock": "y",
+        "itemsInStock": 75
+    },
+    {      
+        "productId" : "e_1",
+        "category": "electronics",
+        "name":"Fingerprint Door Lock",
+        "name_lrg" : "Philips Fingerprint Door Lock, Touchscreen Digital Keypad Deadbolt with Keys, Electronic Biometric Keyless Entry",
+        "price" :9500,
+        "discountPercent" :6,
+        "manu" : "Philips",
+        "image":"https://m.media-amazon.com/images/I/71SvLUW5DBL._AC_SL1500_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/71SvLUW5DBL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71ewuj3uuaL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81dZITVj2NL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71WB7NiDDBL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/816u-QSFsnL._AC_SL1500_.jpg"
+          
+        ],
+        "rating" : 3.5,
+        "description" :"KEYLESS ENTRY & CONVENIENCE: You can unlock this lock by fingerprint, PIN code, one-time PIN code or mechanical key. Set up 50 fingerprints and 20 pin codes for trusted friends and family and share one time code for visitors to experience convenient.",
+        "productDetails": 
+        {
+            "color":"black",
+            "keybordytype":"backlight",
+            "processor": "i7",
+            "Country of Origin": "India",
+            "Water resistance":  "yes"
+        },
+            "maxDeliveryDays": 3,
+            "inStock": "Y",
+            "itemsInStock": 15
+        },
+        {
+            "productId" : "e_2",
+            "category": "electronics",
+            "name" : "Laptop",
+            "name_lrg": "Apple 2020 MacBook Air Laptop M1 Chip, 13” Retina Display",
+            "price" : 90000,
+            "discountPercent" : 9,
+            "manu" : "APPLE",
+            "image" : "https://m.media-amazon.com/images/I/71vFKBpKakL._AC_SX522_.jpg",
+            "imageList": 
+            [
+                "https://m.media-amazon.com/images/I/81HZAfCGZ5L._AC_SX522_.jpg",
+                "https://m.media-amazon.com/images/I/81PeNcC5W4L._AC_SX522_.jpg",
+                "https://m.media-amazon.com/images/I/61UVTIkDLuL._AC_SX522_.jpg",
+                "https://m.media-amazon.com/images/I/71hHMsqVzGL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71zFHzUBzuL._AC_SX522_.jpg"
+            ],
+            "rating" : 4.8,
+            "description" :"Powerful Performance-Take on everything from professional-quality editing to action-packed gaming with ease. The Apple M1 chip with an 8-core CPU delivers up to 3.5x faster performance than the previous generation while using way less power.",
+            "productDetails":
+             {
+                "color":"rose gold",
+                "keybordytype":"backlight",
+                "Model Name":"MacBook Air",
+                "Country of Origin": "China",
+                "Water resistance":  "No"
+            },
+                "maxDeliveryDays":3,
+                "inStock": "Y",
+                "itemsInStock": 15
+},
+
+{
+        "productId" : "e_3",
+        "category": "electronics",
+        "name" : "Smartphone",
+        "name_lrg": "FRAMEO 10 4:3 Ratio 3000mAh Battery WiFi 6 Digital Picture Frame with Smartphone Wireless Charger",
+        "price" : 13000,
+        "discountPercent" : 6,
+        "manu" : "AYSTekMann",
+        "image" : "https://m.media-amazon.com/images/I/71xm03nlvQL._AC_SX466_.jpg",
+        "imageList": [
+           "https://m.media-amazon.com/images/I/8149iaUJyBL._AC_SL1500_.jpg",
+           "https://m.media-amazon.com/images/I/81nwPIoOf2L._AC_SL1500_.jpg",
+           "https://m.media-amazon.com/images/I/61VINiqz4gL._AC_SL1500_.jpg",
+           "https://m.media-amazon.com/images/I/71txYN+nDFL._AC_SL1500_.jpg"
+        ],
+        "rating" : 4.0,
+        "description" :" 3000mAh Battery WiFi 6 Digital Picture Frame with Smartphone Wireless Charger and Watches Charger, Auto-Rotate, 2GB RAM +32GB Memory, Touch Panel, Portable Sharing with Family",
+        "productDetails": 
+        {
+            "color":"black",
+            "keybordytype":"backlight",
+            "Resolution": "720p",
+            "Country of Origin": "China",
+            "Water resistance":  "No"
+        },
+            "maxDeliveryDays": 3,
+            "inStock": "Y",
+            "itemsInStock": 130
+},
+{       
+        "productId" : "e_4",
+        "category": "electronics",
+        "name":"Smart Watch",
+        "name_lrg": "Smart Watches for Men Women 110+ Sport Modes Fitness Tracker with Sleep Heart Rate Monitor, Pedometer, IP68 Waterproof Fitness Watch for iOS Android Gold Pink",
+        "price" :2500,
+        "discountPercent" :6,
+        "manu" : "Nerunsa",
+        "image":"https://m.media-amazon.com/images/I/71odmY7Qc2L._AC_SL1500_.jpg",
+        "imageList": [
+            "https://m.media-amazon.com/images/I/71odmY7Qc2L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81mTRdjJCkL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71K09pPmV6L._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/718FnqZStsL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71p-s1jhbVL._AC_SL1500_.jpg"
+        ],
+        "rating" : 4.5,
+        "description" :"Smart Watch (Answer/Make Calls), 1.85 Smart Watches for Men Women 110+ Sport Modes Fitness Tracker with Sleep Heart Rate Monitor, Pedometer, IP68 Waterproof Fitness Watch for iOS Android Gold Pink",
+        "productDetails": 
+        {
+            "color":" pink",
+            "keybordytype":"backlight",
+            "Country of Origin": "India",
+            "Water resistance":  "yes"
+        },
+            "maxDeliveryDays": 5,
+            "inStock": "Y",
+            "itemsInStock": 180
+},
+        {
+            "productId" : "e_5",
+            "category": "electronics",
+            "name" : " Power Bank",
+            "name_lrg": " Samsung Power Bank Fast Charging Lightweight,",
+            "price" : 1500,
+            "discountPercent" : 5,
+            "manu" : "Samsung",
+            "image" : "https://m.media-amazon.com/images/I/61L3UqtRyCL._AC_SL1500_.jpg",
+            "imageList": [
+            "https://m.media-amazon.com/images/I/61L3UqtRyCL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61y1ffybHEL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61xDs1aEGgL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61CmXQmCP2L._AC_SL1500_.jpg"
+             ],
+            "rating" : 3.5,
+            "description":"Portable Charger, Power Bank, 15000mAh Battery Pack Fast Charging Lightweight, Built-in AC Wall Plug and 2 Output Cables with LED Display for iPhone15 14 13 12 11 Samsung iPad Tablets etc(White)",
+            "productDetails": 
+            {
+                "Brand":"Samsung",
+                "Battery Capacity":"15000 Milliamp Hours",
+                "Color":"Silver white",
+                "Water resistance": "yes"
+            },
+                "maxDeliveryDays":13,
+                "inStock": "Y",
+                "itemsInStock": 190
+        },
+
+        
+        {   
+            "productId" : "e_6",
+            "category": "electronics",
+            "name" : " Projector",
+            "name_lrg": "Egate Bluetooth Projector, Full HD 1080p Native with 4k TV stick support",
+            "price" : 10000,
+            "discountPercent" : 7,
+            "manu" : "E GATE",
+            "image" : "https://m.media-amazon.com/images/I/71jFtHiVfDL._AC_SL1500_.jpg",
+            "imageList": 
+            [
+               "https://m.media-amazon.com/images/I/71jFtHiVfDL._AC_SL1500_.jpg",
+               "https://m.media-amazon.com/images/I/81p8sWcpmtL._AC_SL1500_.jpg",
+               "https://m.media-amazon.com/images/I/81hNcD0yqkL._AC_SL1500_.jpg",
+               "https://m.media-amazon.com/images/I/81RxusQOZPL._AC_SL1500_.jpg"
+
+            ],
+            "rating" : 3.5,
+            "description" :"Bluetooth 5.1 & Bulit-in Speaker,30,000 Hrs Lamp Life,4K Support,Native Full HD 1080P,India's No.1 Brand Bluetooth 5.1 & Bulit-in Speaker,30,000 Hrs Lamp Life.",
+            "productDetails": 
+            {
+                "color": "black",
+                "Connectivity Technology":"VGA, USB, HDMI",
+                "Display resolution":"1920 x 1080",
+                "Display Resolution Maximum":"1920 x 1080",
+                "Country of Origin": "India",
+                "Water resistance":  "No"
+            },
+                "maxDeliveryDays": 3,
+                "inStock": "Y",
+                "itemsInStock": 70
+        },
+        {
+            "productId" : "e_7",
+            "category": "electronics",
+            "name" : "Smart TV ",
+            "name_lrg": "Smart TV with Alexa",
+            "price" : 80000,
+            "discountPercent" : 9,
+            "manu" : "Sumsung",
+            "image" :"https://m.media-amazon.com/images/I/71bdeNqyARL._AC_SL1500_.jpg", 
+            "imageList": [
+               "https://m.media-amazon.com/images/I/71njorlp0oL._AC_SL1500_.jpg",
+               "https://m.media-amazon.com/images/I/71bdeNqyARL._AC_SL1500_.jpg",
+               "https://m.media-amazon.com/images/I/6136SpbAIQL._AC_SL1500_.jpg",
+               "https://m.media-amazon.com/images/I/71uyqsyLc5L._AC_SL1500_.jpg",
+               "https://m.media-amazon.com/images/I/41a08a3SiPL._AC_SL1500_.jpg"
+        
+            ],
+            "rating" : 5.0,
+            "description" :"Experience a lifelike picture with more depth and richer colors thanks to our advanced a7 Gen5 AI Processor 4K that adjusts picture and sound qualities to give you a fabulous experience no matter what you’re watching",
+            " productDetails":
+             {
+               "color":"black",
+               "Display Technology":"LED",
+               "Resolution":"4K",
+               "Country of Origin":"India",
+               "Water resistance": "Not"
+            },
+                "maxDeliveryDays": 8,
+                "inStock": "Y",
+                "itemsInStock": 16
+        },
+        {
+            "productId" : "e_8",
+            "category": "electronics",
+            "name" : "Robot Vacuum Cleaner",
+            "name_lrg": "New Generation Faster cleaning robot ",
+            "price" : 35000,
+            "discountPercent" : 9,
+            "manu" : "ECOVACS",
+            "image" : "https://m.media-amazon.com/images/I/71SK22CSKLL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71SK22CSKLL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81WHOxuVhBL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81MMi+7OPJL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/515U8vWsmdL._SL1132_.jpg"
+        
+            ],
+            "rating" : 4.5,
+            "description" :"ECOVACS Deebot N10 2-In-1 Robot Vacuum Cleaner,Latest 2023 Launch,4300 Pa Powerful Suction,5200 Mah Battery,Covers 4000+ Sq. Ft. In One Charge,Advanced Dtof Technology True Mapping 2.0,White,Robotic",
+            "productDetails": 
+            {
+               "color":"white",
+                "Country of Origin": "India",
+                "Water resistance":  "Not"
+            },
+                "maxDeliveryDays": 2,
+                "inStock": "Y",
+                "itemsInStock": 180
+        },
+
+        {
+            "productId" : "e_9",
+            "category": "electronics",
+            "name" : "Digital Microscope",
+            "name_lrg": "APEXEL Handheld Digital Microscope Lights Coins Electronic Magnifier Camera",
+            "price" : 5000,
+            "discountPercent" : 9,
+            "manu" : " APEXEL",
+            "image" : "https://m.media-amazon.com/images/I/612yvnktuPL._AC_SL1500_.jpg",
+            "imageList": 
+            [
+              "https://m.media-amazon.com/images/I/612yvnktuPL._AC_SL1500_.jpg",
+              "https://m.media-amazon.com/images/I/71oT8A39+GL._AC_SL1500_.jpg",
+              "https://m.media-amazon.com/images/I/71CuZ0X4SIL._AC_SL1500_.jpg",
+              "https://m.media-amazon.com/images/I/718j2lLEZVL._AC_SL1500_.jpg",
+              "https://m.media-amazon.com/images/I/81+7w0mVIaL._AC_SL1500_.jpg"
+        
+            ],
+            "rating" : 3.5,
+            "description" :"APEXEL Handheld Digital Microscope with 2” LCD Screen, 800X Pocket Portable Microscope for Kids with Adjustable Lights Coins Electronic Magnifier Camera, USB to PC Including SD Card",
+            "productDetails": 
+            {
+               "color":"black",
+               "Model Name":"MS008",
+               "Country of Origin": "India",
+               "Water resistance":  "Not"
+            },
+                "maxDeliveryDays": 4,
+                "inStock": "Y",
+                "itemsInStock": 15
+        },
+
+        {
+            "productId" : "e_10",
+            "category": "electronics",
+            "name" : "Bluetooth Speakers",
+            "name_lrg": "Wireless Floating Bluetooth Speakers with Colorful Flashing Light",
+            "price" : 8000,
+            "discountPercent" : 9,
+            "manu" : "RUIXINDA",
+            "image" : "https://m.media-amazon.com/images/I/61cw-PEdLDS._AC_SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61cw-PEdLDS._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/51F2r1+GAAL._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/41iqKMOBYiL._AC_.jpg",
+                "https://m.media-amazon.com/images/I/41IIRzpn9-L._AC_.jpg",
+                "https://m.media-amazon.com/images/I/51BAIIO1tbL._AC_SL1000_.jpg"
+            ],
+            "rating" : 3.5,
+            "description" :"RUIXINDA Magnetic Levitating Speaker, Wireless Floating Bluetooth Speakers with Colorful Flashing Light, 360 Degree Rotation, Home Office Decor Cool Gadgets Tech Electronics Gifts (Black)",
+            "productDetails": 
+            {
+               "color": "black",
+               "Speaker Type":"Surround Sound",
+                "Connectivity Technology":"Bluetooth, USB",
+                "Special Feature":"Radio",
+                "Country of Origin": "India",
+                "Water resistance":  "Not"
+            },
+                "maxDeliveryDays": 3,
+                "inStock": "Y",
+                "itemsInStock": 15
+        },
+
+        {
+            "productId" : "e_11",
+            "category": "electronics",
+            "name" : "Headphones",
+            "name_lrg": "TOZO T6 True Wireless Earbuds Bluetooth 5.3 Headphones",
+            "price" : 2500,
+            "discountPercent" : 9,
+            "manu" : "TOZO ",
+            "image" : "https://m.media-amazon.com/images/I/71cVOgvystL._AC_SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71cVOgvystL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71TuMyXqWVL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61mhT7ed+YL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71DLd6lPX0L._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71H2BzVPm3L._AC_SL1500_.jpg"
+        
+            ],
+            "rating" : 3.5,
+            "description" :"TOZO T6 True Wireless Earbuds Bluetooth 5.3 Headphones Touch Control with Wireless Charging Case IPX8 Waterproof Stereo Earphones in-Ear Built-in Mic Headset Premium Deep Bass Black",
+            "productDetails": 
+            {
+                "color": "black",
+                "Country of Origin": "India",
+                "Water resistance":  "yes"
+            }
+        },
+        {
+            "productId" : "e_12",
+            "category": "electronics",
+            "name" : "Mini DVD Player ",
+            "name_lrg": "DESOBRY Mini DVD Player - 1080P HD Compact Player",
+            "price" : 3500,
+            "discountPercent" : 6,
+            "manu" : "Desobry",
+            "image" :"https://m.media-amazon.com/images/I/71VoD92WfZL._AC_SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71VoD92WfZL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/617thv7junL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71LA5DaiVCL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71Ip7lT9PCL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71NmBpTS5jL._AC_SL1500_.jpg"
+        ],
+            "rating" : 3.5,
+            "description" :"DESOBRY Mini DVD Player - 1080P HD Compact Player for TVs with HDMI, All Region Free, CD/DVD, USB/TF Card, Remote Control, PAL/NTSC Support",
+            "productDetails": 
+            {
+                "Brand":"Desobry",
+                "Media Type":"CD, SVCD, DVD, VCD",
+                "Special Feature":"Multi-Format Playback, Anti-Shock, Compact",
+                "Resolution":"1920 x 1080",
+                "Connector Type":"HDMI, HDMI, USB, RCA, TF CARD"
+            
+           },
+                "maxDeliveryDays": 4,
+                    "inStock": "Y",
+                    "itemsInStock": 15
+    },
+        {
+            "productId" : "e_13",
+            "category": "electronics",
+            "name" : "Printer",
+            "name_lrg": "Touch Screen Quick-Drying Portable Handheld Printer ",
+            "price" : 33000,
+            "discountPercent" : 9,
+            "manu" : "TIKTONER",
+            "image" : "https://m.media-amazon.com/images/I/71CkO2Na7aL._AC_SL1500_.jpg",
+            "imageList": 
+            [
+               "https://m.media-amazon.com/images/I/71CkO2Na7aL._AC_SL1500_.jpg",
+               "https://m.media-amazon.com/images/I/81NO598OaAL._AC_SL1500_.jpg",
+               "https://m.media-amazon.com/images/I/71P4CQSQgvL._AC_SL1500_.jpg",
+               "https://m.media-amazon.com/images/I/71MV788wHfL._AC_SL1500_.jpg",
+               "https://m.media-amazon.com/images/I/71XrTzwYQfL._AC_SL1500_.jpg"
+        
+            ],
+            "rating" : 3.5,
+            "description" :"TIKTONER TIJ800 Handheld Inkjet PrintPrinter er with 5 Inch LED Touch Screen Quick-Drying Portable Handheld Printer for Text/QR Code/Barcode/Logo/Date/Batch Number/Variable Data etc.",
+            "productDetails": 
+            {
+               "color": "black",
+               "Special Feature":"Portable",
+               "Country of Origin": "India",
+               "Water resistance":  "Not"
+            },
+            "maxDeliveryDays": 7,
+            "inStock": "Y",
+            "itemsInStock": 15
+        },   
+        {
+            "productId" : "e_14",
+            "category": "electronics",
+            "name" : "Alexa ",
+            "name_lrg": "Amazon Echo Dot (5th Gen) with clock",
+            "price" : 5000,
+            "discountPercent" : 9,
+            "manu" : "Amazon",
+            "image" :"https://m.media-amazon.com/images/I/81wmtcLUSAL._AC_SL1500_.jpg",
+            "imageList":
+            [
+               "https://m.media-amazon.com/images/I/81wmtcLUSAL._AC_SL1500_.jpg",
+               "https://m.media-amazon.com/images/I/41dCprAmf0L._AC_SL1000_.jpg",
+               "https://m.media-amazon.com/images/I/51jYYT8AszL._AC_SL1000_.jpg",
+               "https://m.media-amazon.com/images/I/61rX+fe4NCL._AC_SL1000_.jpg",
+               "https://m.media-amazon.com/images/I/61hvnjBzxlL._AC_SL1000_.jpg"
+        
+            ],
+            "rating" : 4.5,
+            "description" :"Amazon Echo Dot (5th Gen) with clock | Compact smart speaker with Alexa and enhanced LED display for at-a-glance clock, timers, weather, and more | Cloud Blue",
+            "productDetails": 
+            {
+               "color":"white",
+               "Country of Origin": "India",
+               "Water resistance":  "Not"
+            },
+                "maxDeliveryDays": 3,
+                "inStock": "Y",
+                "itemsInStock": 15
+        },       
+
+        {
+            "productId" : "e_15",
+            "category": "electronics",
+            "name" : "Lamp",
+            "name_lrg": "Lamp with Clock ",
+            "price" : 4000,
+            "discountPercent" :5,
+            "manu" : "Donewin",
+            "image" :"https://m.media-amazon.com/images/I/61aKemHyO5L._AC_SL1000_.jpg",
+            "imageList": 
+            [
+                "https://m.media-amazon.com/images/I/61aKemHyO5L._AC_SL1000_.jpg ",
+                "https://m.media-amazon.com/images/I/61vop8GjY8L._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/61JtRLugwDL._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/51EP+CHUw9L._AC_SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/61JtRLugwDL._AC_SL1000_.jpg"
+        
+            ],
+            "rating" : 3.5,
+            "description" :"Donewin Bedside Lamp with Clock, USB Port, 10W Fast Wireless Charger, Touch Table Lamps for Nightstand, Bedroom,Wood Decor,Stepless Dimming&3 Color Modes",
+            "productDetails": 
+            {
+                "color":"white",
+                "product Dimensions":"11.81D x 3.14W x 6.3H",
+                "Country of Origin": "India",
+                "Water resistance":  "Not"
+                },
+                "maxDeliveryDays": 3,
+                "inStock": "Y",
+                "itemsInStock": 15
+        },
+        {
+            "productId": "t_1",
+            "category": "Toys",
+            "name": "MiniTruck",
+            "name_lrg": "Friction Powered Mini Truck",
+            "price": 199,
+            "discountPercent": 25,
+            "manu": "Toyzone Impex Pvt Ltd",
+            "image": "https://m.media-amazon.com/images/I/71qZH6ZGm8L._SX522_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71qZH6ZGm8L._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71GWNkG8YPL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71EKt1HgFOL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71hIw1-fKiL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81s1XD2gcIL._SL1500_.jpg"
+            ],
+            "rating": 3.9,
+            "description": "TOYZONE Friction Powered Mini Truck Series | Made in India | Friction Powered Toy | Unbreakable City Service Truck | Pull Back | Push & Go Crawling Toys (City Service Truck Dumper)",
+            "productDetails": {
+                "color": "Multicolor",
+                "Batteries Required": "No",
+                "Material Type(s)": "Plastic",
+                "Country of Origin": "India",
+                "Item Weight": "35 g"
+            },
+            "maxDeliveryDays": 2,
+            "inStock": "Y",
+            "itemsInStock": 20
+        },    
+        {
+            "productId": "t_2",
+            "category": "Toys",
+            "name": "Crawling Crab",
+            "name_lrg": "Kidology Musical Kids Crawling Crab Baby Toy",
+            "price": 3999,
+            "discountPercent": 83,
+            "manu": "Kidology",
+            "image": "https://m.media-amazon.com/images/I/71kQU-rPubL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71kQU-rPubL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81f0HHNUSTL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81+LpLd8GuL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81KZt93F3XL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81YsoeDSWbL._SL1500_.jpg"
+            ],
+            "rating": 4.1,
+            "description": "KIDOLOGY Multifunctional Musical Hermit Crab Baby Toy - Interactive Educational Toy for Babies, Encouraging Early Learning, Dancing, Crawling, and Toddler...",
+            "productDetails": {
+                "color": "Orange",
+                "Batteries Required": "Yes",
+                "Material Type(s)": "ABS Plastic",
+                "Country of Origin": "China",
+                "Item Weight": "220 g"
+            },
+            "maxDeliveryDays": 5,
+            "inStock": "Y",
+            "itemsInStock": 5
+        },
+        {
+            "productId": "t_3",
+            "category": "Toys",
+            "name": "Jigsaw Puzzles",
+            "name_lrg": "Fiddlys Wood Jigsaw Puzzles for Kids & Children",
+            "price": 999,
+            "discountPercent": 72,
+            "manu": "The Flyer's Bay",
+            "image": "https://m.media-amazon.com/images/I/71DATQ2-ViL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71Ig59KjEjL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71DATQ2-ViL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71vQxlwGBML._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71DATQ2-ViL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71DATQ2-ViL._SL1500_.jpg"
+            ],
+            "rating": 4.6,
+            "description": "Fiddlys Wood Jigsaw Puzzles for Kids & Children -9 Pieces Age 3+ (Travel Pack of 4)",
+            "productDetails": {
+                "color": "Travel Pack of 4",
+                "Batteries Required": "No",
+                "Material Type(s)": "Wood",
+                "Country of Origin": "India",
+                "Item Weight": "390 g"
+            },
+            "maxDeliveryDays": 3,
+            "inStock": "Y",
+            "itemsInStock": 15
+        },
+        {
+            "productId": "t_4",
+            "category": "Toys",
+            "name": "Kick Scooter for Kids",
+            "name_lrg": "Kick Scooter with PVC Wheels for Kids & Children",
+            "price": 2250,
+            "discountPercent": 51,
+            "manu": "Cockatoo Sports Pvt Ltd",
+            "image": "https://m.media-amazon.com/images/I/61+0Dv1ZcNL._SL1400_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/51HdSS7i82L._SL1400_.jpg",
+                "https://m.media-amazon.com/images/I/61H3HukeL9L._SL1400_.jpg",
+                "https://m.media-amazon.com/images/I/61JVghF2auL._SL1400_.jpg",
+                "https://m.media-amazon.com/images/I/61+0Dv1ZcNL._SL1400_.jpg",
+                "https://m.media-amazon.com/images/I/61eZxhwaK4L._SL1400_.jpg"
+            ],
+            "rating": 4.1,
+            "description": "Cockatoo Rat&Cat Series KS01, Kick Scooter for Kids 3 to 10 Years Boys & Girls, Kick Scooter with PVC Wheels,Kids Scooter",
+            "productDetails": {
+                "color": "Baby Pink",
+                "Batteries Required": "No",
+                "Material Type(s)": "Plastic",
+                "Country of Origin": "India",
+                "Item Weight": "1 kg 500 g"
+            },
+            "maxDeliveryDays": 4,
+            "inStock": "Y",
+            "itemsInStock": 50
+        },
+        {
+            "productId": "t_5",
+            "category": "Toys",
+            "name": "Kids Computer Toy",
+            "name_lrg": "Wembley Kids Computer Toy Baby Laptop",
+            "price": 1249,
+            "discountPercent": 56,
+            "manu": "Wembley, Whole9yards Online LLP",
+            "image": "https://m.media-amazon.com/images/I/61Mkm2jpqaL._SL1100_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61KOMwpiNkL._SL1100_.jpg",
+                "https://m.media-amazon.com/images/I/61h4T2ffUwL._SL1100_.jpg",
+                "https://m.media-amazon.com/images/I/61-bZEJjpGL._SL1100_.jpg",
+                "https://m.media-amazon.com/images/I/51Unht3sWvL._SL1100_.jpg",
+                "https://m.media-amazon.com/images/I/514LrlKWSeL._SL1100_.jpg"
+            ],
+            "rating": 3.3,
+            "description": "Wembley Kids Computer Toy Baby Laptops for Kids 1 2 3-6 Years Activity Electronics Number & Alphabet Charts for Kids Learning Educational Toy with Sound...",
+            "productDetails": {
+                "color": "Multicolor",
+                "Batteries Required": "Yes",
+                "Material Type(s)": "ABS Plastic",
+                "Country of Origin": "India",
+                "Item Weight": "330 g"
+            },
+            "maxDeliveryDays": 2,
+            "inStock": "Y",
+            "itemsInStock": 6
+        },
+        {
+            "productId": "t_6",
+            "category": "Toys",
+            "name": "Kids Chess",
+            "name_lrg": "Magnetic Educational Toys Travel Chess",
+            "price": 8999,
+            "discountPercent": 87,
+            "manu": "BCBESTCHESS Wooden Handcraft",
+            "image": "https://m.media-amazon.com/images/I/612lNq2N6JL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71BwnnR2vUL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71Oai9tOiRL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/41tL-YKukHL.jpg",
+                "https://m.media-amazon.com/images/I/51fQmO-EbVL.jpg",
+                "https://m.media-amazon.com/images/I/51YFDv0AwbL.jpg"
+            ],
+            "rating": 4.2,
+            "description": "BCBESTCHESS Wooden Handcrafted Foldable Magnetic Chess Board Set with Magnetic Pieces and Extra Queens for 2 Players Kids and Adults (10x10 Inches, Brown)",
+            "productDetails": {
+                "color": "Brown",
+                "Batteries Required": "No",
+                "Material Type(s)": "Wood",
+                "Country of Origin": "India",
+                "Item Weight": "91 g"
+            },
+            "maxDeliveryDays": 7,
+            "inStock": "Y",
+            "itemsInStock": 60
+        },
+        {
+            "productId": "t_7",
+            "category": "Toys",
+            "name": "Kids Talking Cactus",
+            "name_lrg": "Prancing Unicorn Dancing & Talking Cactus",
+            "price": 999,
+            "discountPercent": 57,
+            "manu": "BCBESTCHESS Wooden Handcraft",
+            "image": "https://m.media-amazon.com/images/I/61EjdkGaXqL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/412FgK2Ax2L.jpg",
+                "https://m.media-amazon.com/images/I/51HICtfzehL.jpg",
+                "https://m.media-amazon.com/images/I/51pUFgOQBkL.jpg",
+                "https://m.media-amazon.com/images/I/5193CCtTUML.jpg",
+                "https://m.media-amazon.com/images/I/51CIDoyak+L.jpg"
+            ],
+            "rating": 4.4,
+            "description": "Prancing Unicorn Dancing & Talking Cactus Plush Toys for Kids, Babies Age 3+ Wriggle & Singing Recording Repeat What You Say Funny Electric Speaking..",
+            "productDetails": {
+                "color": "Green",
+                "Batteries Required": "No",
+                "Material Type(s)": "Polyester",
+                "Country of Origin": "India",
+                "Item Weight": "250 g"
+            },
+            "maxDeliveryDays": 3,
+            "inStock": "Y",
+            "itemsInStock": 20
+        },
+        {
+            "productId": "t_8",
+            "category": "Toys",
+            "name": "Kids Handheld Video Game",
+            "name_lrg": "Prancing Unicorn Dancing & Talking Cactus",
+            "price": 1299,
+            "discountPercent": 49,
+            "manu": "VGRASSP",
+            "image": "https://m.media-amazon.com/images/I/51qC3djhLQL.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/51VnDZHsR2L.jpg",
+                "https://m.media-amazon.com/images/I/41Y1wjV9E-L.jpg",
+                "https://m.media-amazon.com/images/I/51xh16qktFL.jpg",
+                "https://m.media-amazon.com/images/I/51m6QUpR6vL.jpg",
+                "https://m.media-amazon.com/images/I/51ztzAWIKxL.jpg"
+            ],
+            "rating": 4.0,
+            "description": "VGRASSP Handheld Video Game Console, Retro Mini Game with 400 Classic Sup Game TV Compatible for Kids, Rechargeable 8 Bit Classic",
+            "productDetails": {
+                "color": "Black",
+                "Batteries Required": "Yes",
+                "Material Type(s)": "Plastic",
+                "Country of Origin": "China",
+                "Item Weight": "140 g"
+            },
+            "maxDeliveryDays": 4,
+            "inStock": "Y",
+            "itemsInStock": 2
+        },
+        {
+            "productId": "t_9",
+            "category": "Toys",
+            "name": "Happy Home House Building Blocks",
+            "name_lrg": "AdiChai 150 PCS House Building Blocks",
+            "price": 999,
+            "discountPercent": 67,
+            "manu": "AdiChai ltd",
+            "image": "https://m.media-amazon.com/images/I/51zxgFvCeOL.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71X3Xl51jmL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/41Y1wjV9E-L.jpg",
+                "https://m.media-amazon.com/images/I/41Wnf8PuGUL.jpg",
+                "https://m.media-amazon.com/images/I/8129teKYH8L._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71gEen291pL._SL1080_.jpg"
+            ],
+            "rating": 4.0,
+            "description": "AdiChai 150 PCS Including Attractive Windows Medium Sized Happy Home House Building Blocks with Smooth Rounded Edges, Toys for Kids, Boys Girls and Toddlers Multicolour",
+            "productDetails": {
+                "color": "Multicolour",
+                "Batteries Required": "No",
+                "Material Type(s)": "Plastic",
+                "Country of Origin": "India",
+                "Item Weight": "450 g"
+            },
+            "maxDeliveryDays": 3,
+            "inStock": "Y",
+            "itemsInStock": 22
+        },
+        {
+            "productId": "t_10",
+            "category": "Toys",
+            "name": "Magnetic Math Toy",
+            "name_lrg": "Magnetic Arithmetic Learning Toy Cylinder Numbers",
+            "price": 999,
+            "discountPercent": 70,
+            "manu": "Pandaworld",
+            "image": "https://m.media-amazon.com/images/I/61rzvpll0JL.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/51ow9DafvVL.jpg",
+                "https://m.media-amazon.com/images/I/61dpKgN8vGL._SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/614uq9Pv0pL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61rzvpll0JL.jpg",
+                "https://m.media-amazon.com/images/I/61LmDcUUEML._SL1000_.jpg"
+            ],
+            "rating": 3.5,
+            "description": "Pandaworld Magnetic Math Toy Magnetic Arithmetic Learning Toy Cylinder Numbers Toys Magnetic Blocks for Kids(Pack of 1)",
+            "productDetails": {
+                "color": "Multicolour",
+                "Batteries Required": "No",
+                "Material Type(s)": "Plastic",
+                "Country of Origin": "India",
+                "Item Weight": "60 g"
+            },
+            "maxDeliveryDays": 7,
+            "inStock": "N",
+            "itemsInStock": 57
+        },
+        {
+            "productId": "t_11",
+            "category": "Toys",
+            "name": "Unicorn Soft Toy",
+            "name_lrg": "TOYMYTOY Unicorn Soft Toy (30 X 30 X 5cm, Pink)",
+            "price": 1999,
+            "discountPercent": 50,
+            "manu": "TOYMYTOY",
+            "image": "https://m.media-amazon.com/images/I/61w+pYRuOqL._SL1002_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/41SRxyscw7L._SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/51FP4DL-LeL._SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61v-G5OJMzL._SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61Fbj+2L91L._SL1002_.jpg",
+                "https://m.media-amazon.com/images/I/61w+pYRuOqL._SL1002_.jpg"
+            ],
+            "rating": 4.1,
+            "description": "TOYMYTOY Unicorn Soft Toy (30 X 30 X 5cm, Pink)",
+            "productDetails": {
+                "color": "Baby Pink",
+                "Batteries Required": "No",
+                "Material Type(s)": "Polypropylene",
+                "Country of Origin": "China",
+                "Item Weight": "260 g"
+            },
+            "maxDeliveryDays": 7,
+            "inStock": "N",
+            "itemsInStock": 7
+        },
+        {
+            "productId": "t_12",
+            "category": "Toys",
+            "name": "LEGO Lamborghini Toy",
+            "name_lrg": "LEGO Lamborghini Huracán Tecnica(806 Pieces)",
+            "price": 6499,
+            "discountPercent": 8,
+            "manu": "LEGO Production",
+            "image": "https://m.media-amazon.com/images/I/91jihK2pTJL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71Mgs-wLgxL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71tJvWLSCEL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81-joNSMkrL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81QOEkNNMVL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81KURToiGwL._SL1500_.jpg"
+            ],
+            "rating": 4.7,
+            "description": "LEGO Lamborghini Huracán Tecnica(806 Pieces)",
+            "productDetails": {
+                "color": "Multicolor",
+                "Batteries Required": "No",
+                "Material Type(s)": "Plastic",
+                "Country of Origin": "Czech Republic",
+                "Item Weight": "943 g"
+            },
+            "maxDeliveryDays": 7,
+            "inStock": "Y",
+            "itemsInStock": 10
+        },
+        {
+            "productId": "t_13",
+            "category": "Toys",
+            "name": "Science Kit",
+            "name_lrg": "Einstein Box Ultimate Science Kit",
+            "price": 1199,
+            "discountPercent": 42,
+            "manu": "Metis Learning Solutions Pvt. Ltd",
+            "image": "https://m.media-amazon.com/images/I/71YvjrwmV4L._SL1144_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71ToGt7HYlL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81w+8wnGc-L._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/716L+lsZwVL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81g+koEIr4L._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/81GP8rTz5SL._SL1500_.jpg"
+            ],
+            "rating": 4.7,
+            "description": "Einstein Box Ultimate Science Kit for Boys and Girls Ages 8-12-14| Birthday Gifts Ideas for Kids| STEM Learning Toys for 8,9,10,11,12,13,14 Year Olds",
+            "productDetails": {
+                "color": "Multicolor",
+                "Batteries Required": "No",
+                "Material Type(s)": "Plastic",
+                "Country of Origin": "Czech Republic",
+                "Item Weight": "943 g"
+            },
+            "maxDeliveryDays": 2,
+            "inStock": "Y",
+            "itemsInStock": 1
+        },
+        {
+            "productId": "t_14",
+            "category": "Toys",
+            "name": "Astronaut Nebula Night Lights",
+            "name_lrg": "kathluce Galaxy Projector, Tiktok Astronaut Nebula Night Lights for kids",
+            "price": 2000,
+            "discountPercent": 40,
+            "manu": "kathluce",
+            "image": "https://m.media-amazon.com/images/I/81til+F0whL._SL1500_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/71t-eSpidBL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/715CI+nlxHL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/517Cf6kX5RL.jpg",
+                "https://m.media-amazon.com/images/I/61J-mEFJpDL._SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/81ONEi1k8aL._SL1500_.jpg"
+            ],
+            "rating": 4.7,
+            "description": "kathluce Galaxy Projector, Tiktok Astronaut Nebula Night Lights, Remote Control Timing and 360°Rotation Magnetic Head,Star Lights for Bedroom,Gaming Room Decor",
+            "productDetails": {
+                "color": "White",
+                "Batteries Required": "Yes",
+                "Material Type(s)": "Plastic",
+                "Country of Origin": "Czech Republic",
+                "Item Weight": "955043 g"
+            },
+            "maxDeliveryDays": 3,
+            "inStock": "Y",
+            "itemsInStock": 5
+        },
+        {
+            "productId": "t_15",
+            "category": "Toys",
+            "name": "Electronic Guitar Toy",
+            "name_lrg": "VGRASSP Gear Guitar Toy Eight Key Switches Musical Toy Guitar for kids",
+            "price": 799,
+            "discountPercent": 51,
+            "manu": "VGRASSP",
+            "image": "https://m.media-amazon.com/images/I/61vgUIw0AcL._SL1000_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61vgUIw0AcL._SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/51elUaJ8GiL._SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/61FhL4+3LJL._SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/615Oyare95L._SL1000_.jpg",
+                "https://m.media-amazon.com/images/I/61IOkdaErGL._SL1000_.jpg"
+            ],
+            "rating": 5,
+            "description": "VGRASSP Gear Guitar Toy Eight Key Switches Musical Toy Guitar with Rotating Gears Flashing Lights & Piano Sound Battery Operated Toy Guitar",
+            "productDetails": {
+                "color": "Red",
+                "Batteries Required": "Yes",
+                "Material Type(s)": "Plastic",
+                "Country of Origin": "Czech Republic",
+                "Item Weight": "323 g"
+            },
+            "maxDeliveryDays": 3,
+            "inStock": "Y",
+            "itemsInStock": 12
+        },
+
+        {
+            "productId" : "sp_1",
+            "category": "sports",
+            "name" : "cricketBat",
+            "name_lrg": "Strauss Rebel Cricket Bat, Size SH (34 X 4.5 inch) For All Age Groups, Black PVC/Plastic Cricket Bat  (850-900 g)",
+            "price" : 1199,
+            "discountPercent" : 70,
+            "manu" : "STRAUSS",
+            "image" : "https://rukminim2.flixcart.com/image/416/416/xif0q/bat/a/k/p/850-900-rebel-cricket-bat-size-sh-34-x-4-5-inch-for-all-age-original-imagwufhqfmp377z.jpeg?q=70&crop=false",
+            "imageList": [
+                "https://rukminim2.flixcart.com/image/416/416/xif0q/bat/a/k/p/850-900-rebel-cricket-bat-size-sh-34-x-4-5-inch-for-all-age-original-imagwufhqfmp377z.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/416/416/xif0q/bat/v/x/0/850-900-rebel-cricket-bat-size-sh-34-x-4-5-inch-for-all-age-original-imagwufhkffkt8f5.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/416/416/xif0q/bat/f/r/c/850-900-rebel-cricket-bat-size-sh-34-x-4-5-inch-for-all-age-original-imagwufhw8dmvbfq.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/416/416/xif0q/bat/g/z/l/850-900-rebel-cricket-bat-size-sh-34-x-4-5-inch-for-all-age-original-imagwufhkbqgzbrw.jpeg?q=70&crop=false",
+                "https://rukminim2.flixcart.com/image/416/416/xif0q/bat/z/u/0/850-900-rebel-cricket-bat-size-sh-34-x-4-5-inch-for-all-age-original-imagwufhfegeunx3.jpeg?q=70&crop=false"
+            ],
+            "rating" : 4.2,
+            "description" : "Suitable for All Designed to suit players of all ages, genders, and expertise, the Strauss Rebel Cricket Bat can be an ideal choice for both recreational and competitive matches. Moreover, its versatility allows you to use it against soft tennis balls, cricket tennis balls, and rubber balls, ensuring that every cricket lover can experience the joy of playing with this bat.",
+            "productDetails": {
+                    "Part_Number": "ST-3258",
+                    "Ideal_For" :"Senior, Boys, Men, Women, Girls",
+                    "Cover_Included": "No",
+                    "Toe_Guard":"No",
+                    "Color":"Black",
+                    "Suitable_for":"Cricket tennis ball, Soft Tennis Ball, Rubber ball",
+                    "Sales_Package":"1 Plastic Cricket Bat",
+                    "Sport_Type":"Cricket",
+                    "Net_Quantity":1
+            },
+            "maxDeliveryDays": 2,
+            "inStock": "Y",
+            "itemsInStock": 100
+        },
+        {
+            "productId" : "sp_2",
+            "category": "sports",
+            "name" : "Wembley Foosball",
+            "name_lrg": "Wembley Wooden Big Foosball with Long Stand Portable Foosball Game, Indoor Soccer Game for Boys & Girls,6 Rows with 6 Handles, 18 Players 2 Foosball Table Set for Kids or Adults",
+            "price" : 2999,
+            "discountPercent" : 50,
+            "manu" : "Wembley",
+            "image" : "https://m.media-amazon.com/images/I/61Bm0xc3UzL._SY450_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61Bm0xc3UzL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61fk5ek-5HL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61ew2II0qOL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61Bm0xc3UzL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61iFRgU7TqL._SY450_.jpg"
+            ],
+            "rating" : 4.1,
+            "description" : "Lightweight & Portable: This medium size with 4 small stand Foosball or Soccer Game is durable,portable and easy to store. It is ISI certified & BIS approved. Recommended age range: 6 years above .The soccer game table features 360° rotated built-in soccer figures, 6 rotating rods with 18 players & 2 football allows 3 rows per team to shoot at goal from any position from any angle.Fun for indoor play & outdoor play & can be played on a flat surface for a full head-to-head competition",
+            "productDetails": {
+                "Brand":	"Wembley",
+                "Colour":	"Muticolor",
+                "Material":	"Wood",
+                "Product Dimensions":	"37L x 23W x 69H Centimeters",
+                "Sport":	"Foosball",
+                "Item Weight":	"5 Kilograms"
+            },
+            "maxDeliveryDays": 3,
+            "inStock": "Y",
+            "itemsInStock": 500
+        },
+        {
+            "productId" : "sp_3",
+            "category": "sports",
+            "name" : "Click and Catch/Pop",
+            "name_lrg": "Click and Catch/Pop and Catch,Indoor Outdoor Sports Game for Everyone (Colour May Vary)",
+            "price" : 159,
+            "discountPercent" : 5,
+            "manu" : "Negi Store",
+            "image" : "https://m.media-amazon.com/images/I/51LHD6C+a4L._SY450_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/51LHD6C+a4L._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51Jfvhqx3ZS._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/51LZHkgzEXL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/518JI+xjEmL._SY450_.jpg",
+                "https://m.media-amazon.com/images/I/61NQszjjmFL._SY450_.jpg"
+            ],
+            "rating" : 3.5,
+            "description" : "Click & Catch / Pop n Play Can Be Played By Kids As Well Adults, Its a Complete Family Game Package contains- 2 catch ball cup holder, 2 plastic balls. Material - Plastic",
+            "productDetails": {
+                "Manufacturer":	"Kumar Toys",
+                "Country of Origin":	"India",
+                "Item Weight": "100 g",
+                "Colour":	"Multicolor",
+                "Net Quantity":	"1 count",
+                "Included Components":	"GAME",
+                "Generic Name":	"POP N CATCH"
+            },
+            "maxDeliveryDays": 4,
+            "inStock": "Y",
+            "itemsInStock": 200
+        },
+        {
+            "productId" : "sp_4",
+            "category": "sports",
+            "name" : "Racket Set",
+            "name_lrg": "Kabello Racket Set for Children,15 Inch with 1 Soft Balls,Toddler Indoor/Outdoor Sports Games Ideal for Birthday Gift (Multicolor)",
+            "price" : 649,
+            "discountPercent" : 31,
+            "manu" : "Kanika Enterprises",
+            "image" : "https://m.media-amazon.com/images/I/61HZetyinKS._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/61HZetyinKS._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61t+Vmr0F+S._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/51+8HUvhEQS._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/41v1DJbC9wS._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/51ZN2I4ploS._SX679_.jpg"
+            ],
+            "rating" : 3.6,
+            "description" : "The tennis racket feels good, I quickly get used to it Lightweight, strong impact resistance Play smoothly, with little vibration, and won't hurt your wrists Good shock absorption effec",
+            "productDetails": {
+                "Size":	"One Size",
+                "Brand":	"Kabello",
+                "Grip Size":	"4 inches",
+                "Sport":	"Tennis",
+                "Skill Level":	"Beginner"
+            },
+            "maxDeliveryDays": 4,
+            "inStock": "Y",
+            "itemsInStock": 150
+        },
+        {
+            "productId" : "sp_5",
+            "category": "sports",
+            "name" : "Basketball",
+            "name_lrg": "Amisha Gift Gallery Big Basketball Set for Kids with Adjustable Stand, Basketball Hoop for Kids, Kids Sports Basketball Toys, Indoor and Outdoor Games for Boys & Kids",
+            "price" : 799,
+            "discountPercent" : 14,
+            "manu" : "Amisha Gift Gallery",
+            "image" : "https://m.media-amazon.com/images/I/51PRYgOcvIL._SX679_.jpg",
+            "imageList": [
+                "https://m.media-amazon.com/images/I/51PRYgOcvIL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/612mc1vj4pS._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61tIMIlxTTL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/71Kr8Su6VpL._SX679_.jpg",
+                "https://m.media-amazon.com/images/I/61K6ZPQ4FOL._SX679_.jpg"
+            ],
+            "rating" : 4.0,
+            "description" : "BASKETBALL RING : Toddlers and children from age 5+ can enjoy this easy to move around, portable basketball hoop wherever they are, indoors and outdoors.",
+            "productDetails": {
+                
+                    "Brand":	"Amisha Gift Gallery",
+                    "Material":	"Plastic",
+                    "Colour":	"Multi",
+                    "Product Dimensions":	"50D x 35W x 7H Centimeters",
+                    "Item Weight":	"1.85 Kilograms",
+                    "Indoor/Outdoor Usage":	"Outdoor",
+                    "Special Feature":	"Adjustable Height",
+                    "Mounting Type":	"Floor Mount"
+    
+            },
+            "maxDeliveryDays": 3,
+            "inStock": "Y",
+            "itemsInStock": 180
+        }
+]

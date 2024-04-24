@@ -1,57 +1,46 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react'
 
-const CafeSearch = () => {
-  const [cafes, setCafes] = useState([]);
-  const [filteredCafes, setFilteredCafes] = useState([]);
-  const [searchTerm, setSearchTerm] = useState('');
+function Main() {
+  const [product, setProduct] = useState([])
 
+  function FetchData() {
+    fetch('../../product.json')
+      .then(res => res.json())
+      .then(product => {
+        setProduct(product)
+      })
+  }
   useEffect(() => {
-    const mockCafes = [
-      { id: 1, name: "Cafe A", location: "City A", rating: 4.5 },
-      { id: 2, name: "Cafe B", location: "City B", rating: 4.0 },
-      { id: 3, name: "Cafe C", location: "City C", rating: 4.2 },
-    ];
-    setCafes(mockCafes);
-    setFilteredCafes(mockCafes);
-  }, []);
-
-  const handleSearch = (e) => {
-    const searchTerm = e.target.value.toLowerCase();
-    setSearchTerm(searchTerm);
-    const filteredCafes = cafes.filter(cafe =>
-      cafe.name.toLowerCase().includes(searchTerm)
-    );
-    setFilteredCafes(filteredCafes);
-  };
-
+    FetchData()
+  }, [])
   return (
-    <div>
-      <input
-        type="text"
-        placeholder="Search cafes by name"
-        value={searchTerm}
-        onChange={handleSearch}
-      />
-      <table>
-        <thead>
-          <tr>
-            <th>Name</th>
-            <th>Location</th>
-            <th>Rating</th>
-          </tr>
-        </thead>
-        <tbody>
-          {filteredCafes.map(cafe => (
-            <tr key={cafe.id}>
-              <td>{cafe.name}</td>
-              <td>{cafe.location}</td>
-              <td>{cafe.rating}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
+    <div className='d-flex flex-wrap'>
+      {
+        product.map((data) => (
+          <div className='card d-flex flex-wrap mt-1 ms-1' style={{width : '240px'}}>
+            <div className='card-header'>{data.name}</div>
+            <div className='card-body'><img src={data.image} width='100' alt="" />
+            {
+              data.productDetails && (
+                <>
+                  <p>{data.productDetails['Closure type']}</p>
+                  <p>{data.productDetails['Heel type']}</p>
+                  <p>{data.productDetails[' level ']}</p>
+                  <p>{data.productDetails["Country of Origin"]}</p>
+                  <p>{data.productDetails['Sole material']}</p>
+                </>
+              )
+            }
+            </div>
+            <div className='card-footer'>
+              <p>{data.price}</p>
+              <button className='btn btn-danger w-100'>Buynow</button>
+            </div>
+          </div>
+        ))
+      }
     </div>
-  );
-};
+  )
+}
 
-export default CafeSearch;
+export default Main
